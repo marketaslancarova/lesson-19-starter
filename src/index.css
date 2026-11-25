@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Výchozí styly startovního projektu.
+   Design tokeny z Figmy (event-booking-design) sem doplníte během lekce. */
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+}
+
+.event-details {
+  padding: 16px;
+}
